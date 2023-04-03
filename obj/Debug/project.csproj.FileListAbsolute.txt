@@ -1,0 +1,13 @@
+D:\college\Third year ,First term\virtual programming\project\project\bin\Debug\project.exe.config
+D:\college\Third year ,First term\virtual programming\project\project\bin\Debug\project.exe
+D:\college\Third year ,First term\virtual programming\project\project\bin\Debug\project.pdb
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.Form1.resources
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.Form2.resources
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.Properties.Resources.resources
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.exe
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.pdb
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.FirstCustomControl.resources
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.UserControl1.resources
+D:\college\Third year ,First term\virtual programming\project\project\obj\Debug\project.csproj.AssemblyReference.cache
